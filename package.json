@@ -1,0 +1,26 @@
+{
+    "name": "divvy-up",
+    "version": "0.0.1",
+    "description": "Evenly assign tasks to a list of participants. Edit",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "jest",
+        "test:watch": "jest --watch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/danseethaler/divvy-up.git"
+    },
+    "keywords": ["divvy", "todos", "tasks", "assignments"],
+    "author": "Dan Seethaler <dan@seethalers.com> (https://danseethaler.com/)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/danseethaler/divvy-up/issues"
+    },
+    "homepage": "https://github.com/danseethaler/divvy-up#readme",
+    "devDependencies": {
+        "eslint": "^4.7.2",
+        "eslint-plugin-node": "^5.1.1",
+        "jest": "^21.1.0"
+    }
+}

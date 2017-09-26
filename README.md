@@ -1,2 +1,2 @@
-# random-assignments
-Randomly assign tasks to a list of participants.
+# divvy-up
+Evenly assign tasks to a list of participants.
